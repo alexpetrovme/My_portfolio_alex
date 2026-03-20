@@ -1,4 +1,4 @@
-import { ExternalLink, Github } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 export function Projects() {
@@ -66,15 +66,6 @@ export function Projects() {
                 </div>
                 
                 <div className="flex gap-4">
-                  <a
-                    href="https://github.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2 text-gray-600 hover:text-gray-900 transition-colors"
-                  >
-                    <Github size={20} />
-                    <span>Code</span>
-                  </a>
                   <a
                     href="https://example.com"
                     target="_blank"
