@@ -1,13 +1,14 @@
 import { ExternalLink } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+import photoroomImage from '../../assests/images/photoroom.png';
 
 export function Projects() {
   const projects = [
     {
-      title: 'AI Chatbot Platform',
-      description: 'Intelligent conversational AI system with natural language understanding and context-aware responses.',
-      image: 'https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWIlMjBkZXZlbG9wbWVudCUyMGNvZGluZ3xlbnwxfHx8fDE3NzMxODkxMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-      tags: ['Python', 'LangChain', 'React'],
+      title: 'AI Photo Platform',
+      description: 'Photoroom — AI photo editing tool for quick, professional images.',
+      image: photoroomImage,
+      tags: ['Python', 'DeepLearning', 'React', 'AWS', 'Docker'],
     },
     {
       title: 'ML Model API',
