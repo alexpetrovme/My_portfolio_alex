@@ -24,7 +24,7 @@ export function Hero() {
         
         <div className="flex items-center justify-center gap-4 mb-12">
           <a
-            href="https://github.com/alexpetrovme"
+            href="https://github.com/EngineerML"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors"
