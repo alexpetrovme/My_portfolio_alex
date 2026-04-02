@@ -11,11 +11,11 @@ export function Hero() {
     <section id="hero" className="min-h-screen flex items-center justify-center px-6 pt-20">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-6">
-          <img src={avatarImage} alt="Alex Petrov" className="w-64 h-64 mx-auto mb-6 rounded-full object-cover" />
+          <img src={avatarImage} alt="Chongzhi Wei" className="w-64 h-64 mx-auto mb-6 rounded-full object-cover" />
         </div>
         
         <h1 className="text-5xl md:text-7xl mb-6 text-gray-900">
-          Hi, I'm <span className="text-blue-600">Alex Petrov</span>
+          Hi, I'm <span className="text-blue-600">Chongzhi Wei</span>
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto">
