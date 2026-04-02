@@ -32,7 +32,7 @@ export function Hero() {
             <Github size={24} className="text-gray-700" />
           </a>
           <a
-            href="mailto:alex.me000509@gmail.com"
+            href="mailto:alexchong@outlook.com"
             className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors"
           >
             <Mail size={24} className="text-gray-700" />

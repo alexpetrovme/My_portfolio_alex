@@ -21,8 +21,8 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Email</p>
-                  <a href="mailto:alex.me000509@gmail.com" className="text-gray-900 hover:text-blue-600 transition-colors">
-                    alex.me000509@gmail.com
+                  <a href="mailto:alexchong@outlook.com" className="text-gray-900 hover:text-blue-600 transition-colors">
+                    alexchong@outlook.com
                   </a>
                 </div>
               </div>
