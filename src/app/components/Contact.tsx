@@ -33,7 +33,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Location</p>
-                  <p className="text-gray-900">Jakarta, ID</p>
+                  <p className="text-gray-900">Kuala Lumpur, Malaysia</p>
                 </div>
               </div>
             </div>
